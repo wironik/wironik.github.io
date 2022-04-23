@@ -26,14 +26,14 @@ var eyes;
 
 //текстуры
 var gameTexture=new Image();
-gameTexture.src='../textures/game.png';
+gameTexture.src='textures/game.png';
 gameTexture.onload = function() 
 {
 	console.log('ok1');
 };
 
 var mapTexture=new Image();
-mapTexture.src='../textures/maplist.png';
+mapTexture.src='textures/maplist.png';
 mapTexture.onload = function() 
 {
 	console.log('ok1');
